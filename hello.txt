@@ -1,1 +1,87 @@
 hi
+Anyone on the internet can see this repository
+
+
+Private
+You choose who can see and commit to this repository
+
+Repositories that need your help
+gradle / gradle
+Adaptable, fast automation for all
+
+up-for-grabs / up-for-grabs.net
+This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
+
+goatshriek / stumpless
+a C logging library built for high performance and a rich feature set
+
+Use tools of the trade
+Write code in your web browser
+github.dev
+Use the github.dev web-based editor from your repository or pull request to create and commit changes.
+
+Get AI-based coding suggestions
+Try GitHub Copilot free for 30 days, which suggests entire functions in real time, right from your editor.
+
+Get started on GitHub
+What is GitHub?
+What is GitHub?
+Follow this exercise to try the GitHub flow
+GitHub's “Hello World” tutorial teaches you essentials, where you create your own repository and learn GitHub's pull request workflow for creating and reviewing code.
+
+Trending repositories
+·
+See more
+@hyperdxio profile
+hyperdxio/hyperdx
+Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
+ TypeScript 3.5k
+@williamyang1991 profile
+williamyang1991/Rerender_A_Video
+[SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
+ Jupyter Notebook 1.6k
+Recommended for you
+@bregman-arie profile
+bregman-arie/system-design-notebook
+Learn System Design step by step
+784
+© 2023 GitHub, Inc.
+Blog
+About
+Shop
+Contact GitHub
+Pricing
+API
+Training
+Status
+Security
+Terms
+Privacy
+Docs
+Universe23
+Proactive security,
+powered by AI.
+20% off in-person tickets, only for a limited time.
+
+Latest changes
+2 days ago
+Enterprise managed users support for Ping Federate is now generally available
+2 days ago
+Easily customize code scanning using CodeQL model packs for Java (beta)
+3 days ago
+Migrate Bitbucket Server and Data Center repos to GitHub.com
+3 days ago
+Migrate Bamboo and Bitbucket Pipeline to GitHub Actions
+View changelog →
+Explore repositories
+@OrchardCMS profile OrchardCMS / OrchardCore
+Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
+
+ 6.8k  C#
+@bregman-arie profile bregman-arie / python-exercises
+ 413  Python
+@opensearch-project profile opensearch-project / security
+🔐 Secure your cluster with TLS, numerous authentication backends, data masking, audit logging as well as role-based access control on indices, documents, and fields
+
+ 155  Java
+Explore more →
